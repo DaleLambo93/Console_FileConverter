@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DL.FileConverter.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
